@@ -1,6 +1,7 @@
 public class Main(int argc, string[] argv)
 {
   Console.Writeline("Hello World");
+  Console.WriteLine("Hells Bells");
 }
 
 // Test update 1
