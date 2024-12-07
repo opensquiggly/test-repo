@@ -4,7 +4,6 @@ public class Main(int argc, string[] argv)
   Console.WriteLine("Hells Bells");
 }
 
-// Sister
 // Foccacia bread
 // Test update 1
 // Test update 2
