@@ -5,7 +5,6 @@ public class Main(int argc, string[] argv)
 }
 
 // Foccacia bread
-// Christian
 // Test update 1
 // Test update 2
 // Test update 3
